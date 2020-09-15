@@ -1,3 +1,5 @@
+###### change to node 1, node 2
+
 ## input data
 HIV_transmission <- fread("data-raw/HIV_transmission.csv")
 
