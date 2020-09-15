@@ -86,3 +86,5 @@ Added initial set of networks from ICON:
 * chess
 * seed_disperse
 * yeast_ppi
+* intra_organizational
+* HIV_transmission
