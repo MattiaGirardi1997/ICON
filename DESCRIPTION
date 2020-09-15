@@ -4,7 +4,7 @@ Title: Provides Easy Access to Complex Systems Datasets
 Version: 0.3.0
 Authors@R: c(
     person("Raoul", "Wadhwa", email = "raoulwadhwa@gmail.com", role = c("aut", "cre")),
-    person("Jacob", "Scott", role = "aut"))
+    person("Jacob", "Scott", "Mattia", role = "aut"))
 Description: Provides easy-to-use and easy-to-access datasets from the
     Index of COmplex Networks (ICON) database available on the University
     of Colorado website. All datasets can be loaded with a single function
