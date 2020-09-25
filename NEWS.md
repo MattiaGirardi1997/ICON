@@ -27,6 +27,10 @@ Added following datasets:
 * wordadj_french
 * wordadj_spanish
 * wordadj_japanese
+* intra_organizational
+* HIV_transmission
+* star_wars
+* UC_irvine_students
 
 ## ICON v0.2.0
 
@@ -86,5 +90,4 @@ Added initial set of networks from ICON:
 * chess
 * seed_disperse
 * yeast_ppi
-* intra_organizational
-* HIV_transmission
+
